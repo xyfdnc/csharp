@@ -1,0 +1,6 @@
+Z:\csharp\Demo1\Demo1\bin\Debug\Demo1.exe.config
+Z:\csharp\Demo1\Demo1\bin\Debug\Demo1.exe
+Z:\csharp\Demo1\Demo1\bin\Debug\Demo1.pdb
+Z:\csharp\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+Z:\csharp\Demo1\Demo1\obj\Debug\Demo1.exe
+Z:\csharp\Demo1\Demo1\obj\Debug\Demo1.pdb
